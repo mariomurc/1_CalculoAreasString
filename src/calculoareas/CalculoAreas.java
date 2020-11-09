@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+
+/* ESTA SERÍA LA NUEVA VERSIÓN DEL EJERCICIO DE CALCULO AREAS */
+
+
 package calculoareas;
 
 import java.util.Scanner;
@@ -42,8 +47,14 @@ public class CalculoAreas {
         
         */
         
-        
-        
+       System.out.println("ASDFASDFASFD");
+       System.out.println("ASDFASDFASFD");System.out.println("ASDFASDFASFD");
+       System.out.println("ASDFASDFASFD");
+       System.out.println("ASDFASDFASFD");
+       System.out.println("ASDFASDFASFD");
+       System.out.println("ASDFASDFASFD");
+       
+       // hola que tal
        
         
         /*
